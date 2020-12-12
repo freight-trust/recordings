@@ -1,5 +1,8 @@
 # `recordings`
 
+
+[![asciicast](https://asciinema.org/a/378884.svg)](https://asciinema.org/a/378884)
+
 ## Outline
 
 Video Recording of Baseline Demo utilizing the [fullstack demo](https://github.com/freight-trust/fullstack-baseline)
